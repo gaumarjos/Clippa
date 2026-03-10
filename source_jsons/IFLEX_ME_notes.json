@@ -1,0 +1,470 @@
+{
+    "success": true,
+    "status": 200,
+    "statusText": "OK",
+    "data": {
+        "name": "Unit 1",
+        "url": "/Unit 1",
+        "files": [],
+        "folders": [
+            {
+                "name": "Teaching Materials",
+                "url": "/Unit 1/Teaching Materials",
+                "files": [],
+                "folders": [
+                    {
+                        "name": "Live sessions - Prof. Siena",
+                        "url": "/Unit 1/Teaching Materials/Live sessions - Prof. Siena",
+                        "files": [
+                            {
+                                "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Teaching%20Materials/Live%20sessions%20-%20Prof.%20Siena/Chapter%201%20-%20WEO%20-%20Oct%202025.pdf",
+                                "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Teaching%20Materials/Live%20sessions%20-%20Prof.%20Siena/Chapter%201%20-%20WEO%20-%20Oct%202025.pdf&MasterUrl=/sites/E1234112/Ma1234112",
+                                "name": "Chapter 1 - WEO - Oct 2025.pdf",
+                                "created": "2025-11-28T15:41:15Z",
+                                "modified": "2025-11-28T15:41:15Z",
+                                "modifiedBy": null,
+                                "createdBy": null,
+                                "size": 1731948,
+                                "type": 0,
+                                "urlImage": "/assets/img/placeholder_PDF.svg"
+                            },
+                            {
+                                "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Teaching%20Materials/Live%20sessions%20-%20Prof.%20Siena/Siena%20live%20session%2002%20December%202025.pdf",
+                                "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Teaching%20Materials/Live%20sessions%20-%20Prof.%20Siena/Siena%20live%20session%2002%20December%202025.pdf&MasterUrl=/sites/E1234112/Ma1234112",
+                                "name": "Siena live session 02 December 2025.pdf",
+                                "created": "2025-12-02T18:10:54Z",
+                                "modified": "2025-12-02T18:11:29Z",
+                                "modifiedBy": null,
+                                "createdBy": null,
+                                "size": 8265098,
+                                "type": 0,
+                                "urlImage": "/assets/img/placeholder_PDF.svg"
+                            }
+                        ],
+                        "folders": [],
+                        "created": "2025-11-28T15:41:07Z",
+                        "modified": "2025-11-28T15:41:07Z"
+                    }
+                ],
+                "created": "2025-11-28T15:40:51Z",
+                "modified": "2025-11-28T15:40:51Z"
+            },
+            {
+                "name": "Transcript Clip",
+                "url": "/Unit 1/Transcript Clip",
+                "files": [
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.26.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.26.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.26.docx",
+                        "created": "2025-11-21T07:29:03Z",
+                        "modified": "2025-11-21T07:29:03Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 156813,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.27.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.27.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.27.docx",
+                        "created": "2025-11-21T07:29:03Z",
+                        "modified": "2025-11-21T07:29:03Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 78649,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.28.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.28.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.28.docx",
+                        "created": "2025-11-21T07:29:04Z",
+                        "modified": "2025-11-21T07:29:04Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 266634,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.30.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.30.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.30.docx",
+                        "created": "2025-11-21T07:29:05Z",
+                        "modified": "2025-11-21T07:29:05Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 85673,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.31.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.31.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.31.docx",
+                        "created": "2025-11-21T07:29:05Z",
+                        "modified": "2025-11-21T07:29:05Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 83685,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.29.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.29.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.29.docx",
+                        "created": "2025-11-21T07:29:05Z",
+                        "modified": "2025-11-21T07:29:05Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 126605,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.32.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.32.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.32.docx",
+                        "created": "2025-11-21T07:29:07Z",
+                        "modified": "2025-11-21T07:29:07Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 114290,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.01.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.01.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.01.docx",
+                        "created": "2025-11-21T07:29:07Z",
+                        "modified": "2025-11-21T07:29:07Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 2555001,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.02.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.02.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.02.docx",
+                        "created": "2025-11-21T07:29:17Z",
+                        "modified": "2025-11-21T07:29:17Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 1595352,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.05.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.05.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.05.docx",
+                        "created": "2025-11-21T07:29:18Z",
+                        "modified": "2025-11-21T07:29:18Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 202683,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.04.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.04.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.04.docx",
+                        "created": "2025-11-21T07:29:19Z",
+                        "modified": "2025-11-21T07:29:19Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 132648,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.03.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.03.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.03.docx",
+                        "created": "2025-11-21T07:29:19Z",
+                        "modified": "2025-11-21T07:29:19Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 1697670,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.06.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.06.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.06.docx",
+                        "created": "2025-11-21T07:29:19Z",
+                        "modified": "2025-11-21T07:29:19Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 444098,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.07.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.07.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.07.docx",
+                        "created": "2025-11-21T07:29:20Z",
+                        "modified": "2025-11-21T07:29:20Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 260632,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.08.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.08.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.08.docx",
+                        "created": "2025-11-21T07:29:20Z",
+                        "modified": "2025-11-21T07:29:20Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 108743,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.09.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.09.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.09.docx",
+                        "created": "2025-11-21T07:29:21Z",
+                        "modified": "2025-11-21T07:29:21Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 100677,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.10.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.10.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.10.docx",
+                        "created": "2025-11-21T07:29:32Z",
+                        "modified": "2025-11-21T07:29:32Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 31953,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.11.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.11.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.11.docx",
+                        "created": "2025-11-21T07:29:32Z",
+                        "modified": "2025-11-21T07:29:32Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 263950,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.12.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.12.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.12.docx",
+                        "created": "2025-11-21T07:29:32Z",
+                        "modified": "2025-11-21T07:29:32Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 96374,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.14.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.14.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.14.docx",
+                        "created": "2025-11-21T07:29:33Z",
+                        "modified": "2025-11-21T07:29:33Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 33844,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.13.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.13.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.13.docx",
+                        "created": "2025-11-21T07:29:33Z",
+                        "modified": "2025-11-21T07:29:33Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 212586,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.15.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.15.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.15.docx",
+                        "created": "2025-11-21T07:29:33Z",
+                        "modified": "2025-11-21T07:29:33Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 32029,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.16.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.16.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.16.docx",
+                        "created": "2025-11-21T07:29:34Z",
+                        "modified": "2025-11-21T07:29:34Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 32301,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.18.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.18.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.18.docx",
+                        "created": "2025-11-21T07:29:34Z",
+                        "modified": "2025-11-21T07:29:34Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 72896,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.17.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.17.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.17.docx",
+                        "created": "2025-11-21T07:29:45Z",
+                        "modified": "2025-11-21T07:29:45Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 67685,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.19.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.19.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.19.docx",
+                        "created": "2025-11-21T07:29:46Z",
+                        "modified": "2025-11-21T07:29:46Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 144622,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.20.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.20.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.20.docx",
+                        "created": "2025-11-21T07:29:46Z",
+                        "modified": "2025-11-21T07:29:46Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 33700,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.21.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.21.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.21.docx",
+                        "created": "2025-11-21T07:29:46Z",
+                        "modified": "2025-11-21T07:29:46Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 33120,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.22.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.22.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.22.docx",
+                        "created": "2025-11-21T07:29:47Z",
+                        "modified": "2025-11-21T07:29:47Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 33472,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.23.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.23.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.23.docx",
+                        "created": "2025-11-21T07:29:47Z",
+                        "modified": "2025-11-21T07:29:47Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 32554,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.24.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.24.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.24.docx",
+                        "created": "2025-11-21T07:29:47Z",
+                        "modified": "2025-11-21T07:29:47Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 85165,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.25.docx",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Transcript%20Clip/Notes%20Macroeconomics_01.25.docx&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "Notes Macroeconomics_01.25.docx",
+                        "created": "2025-11-21T07:29:48Z",
+                        "modified": "2025-11-21T07:29:48Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 47091,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    }
+                ],
+                "folders": [],
+                "created": "2025-11-21T07:27:42Z",
+                "modified": "2025-11-21T07:27:42Z"
+            },
+            {
+                "name": "Syllabus",
+                "url": "/Unit 1/Syllabus",
+                "files": [
+                    {
+                        "url": "/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Syllabus/IFlex2025%20Macroeconomics%20Syllabus%20(updated).pdf",
+                        "downloadUrl": "download?url=/sites/E1234112/Ma1234112/Shared%20Documents/Unit%201/Syllabus/IFlex2025%20Macroeconomics%20Syllabus%20(updated).pdf&MasterUrl=/sites/E1234112/Ma1234112",
+                        "name": "IFlex2025 Macroeconomics Syllabus (updated).pdf",
+                        "created": "2025-12-15T15:31:39Z",
+                        "modified": "2025-12-15T15:32:10Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 231114,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    }
+                ],
+                "folders": [],
+                "created": "2025-11-28T09:26:33Z",
+                "modified": "2025-11-28T09:26:33Z"
+            }
+        ],
+        "created": "2025-04-29T21:51:45Z",
+        "modified": "2025-04-29T21:51:45Z"
+    }
+}

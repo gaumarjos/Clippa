@@ -1,0 +1,204 @@
+{
+    "success": true,
+    "status": 200,
+    "statusText": "OK",
+    "data": {
+        "name": "Unit 1",
+        "url": "/Unit 1",
+        "files": [
+            {
+                "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Business%20Statistics_DEF.pdf",
+                "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Business%20Statistics_DEF.pdf&MasterUrl=/sites/E86612/BS86612",
+                "name": "Business Statistics_DEF.pdf",
+                "created": "2025-04-23T12:55:02Z",
+                "modified": "2025-04-23T12:55:02Z",
+                "modifiedBy": null,
+                "createdBy": null,
+                "size": 516805,
+                "type": 0,
+                "urlImage": "/assets/img/placeholder_PDF.svg"
+            }
+        ],
+        "folders": [
+            {
+                "name": "Materiali",
+                "url": "/Unit 1/Materiali",
+                "files": [
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%201.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%201.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "CASO 1.pdf",
+                        "created": "2025-04-24T13:07:40Z",
+                        "modified": "2025-04-24T13:07:40Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 2019524,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%203.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%203.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "CASO 3.pdf",
+                        "created": "2025-04-24T13:07:40Z",
+                        "modified": "2025-04-24T13:07:40Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 3322777,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%202.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%202.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "CASO 2.pdf",
+                        "created": "2025-04-24T13:07:40Z",
+                        "modified": "2025-04-24T13:07:40Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 3347924,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/Excel_caso2.xlsx",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/Excel_caso2.xlsx&MasterUrl=/sites/E86612/BS86612",
+                        "name": "Excel_caso2.xlsx",
+                        "created": "2025-04-24T13:07:41Z",
+                        "modified": "2025-04-24T13:07:41Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 19180,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/dati_casi%20pdf.zip",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/dati_casi%20pdf.zip&MasterUrl=/sites/E86612/BS86612",
+                        "name": "dati_casi pdf.zip",
+                        "created": "2025-04-24T13:07:41Z",
+                        "modified": "2025-04-24T13:07:41Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 59117,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/logaritmi.xlsx",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/logaritmi.xlsx&MasterUrl=/sites/E86612/BS86612",
+                        "name": "logaritmi.xlsx",
+                        "created": "2025-04-24T13:07:41Z",
+                        "modified": "2025-04-24T13:07:41Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 21065,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%204.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASO%204.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "CASO 4.pdf",
+                        "created": "2025-04-24T13:07:42Z",
+                        "modified": "2025-04-24T13:07:42Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 4554278,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%200%20_%20STATISTICA%20DESCRITTIVA.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%200%20_%20STATISTICA%20DESCRITTIVA.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "PARTE 0 _ STATISTICA DESCRITTIVA.pdf",
+                        "created": "2025-04-24T13:07:42Z",
+                        "modified": "2025-04-24T13:07:42Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 2570945,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%201_PROBABILITA.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%201_PROBABILITA.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "PARTE 1_PROBABILITA.pdf",
+                        "created": "2025-04-24T13:07:43Z",
+                        "modified": "2025-04-24T13:07:43Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 4250654,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%202_%20INFERENZA%20STATISTICA.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%202_%20INFERENZA%20STATISTICA.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "PARTE 2_ INFERENZA STATISTICA.pdf",
+                        "created": "2025-04-24T13:07:44Z",
+                        "modified": "2025-04-24T13:07:44Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 3904749,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/cap15_on_line.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/cap15_on_line.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "cap15_on_line.pdf",
+                        "created": "2025-04-24T13:07:44Z",
+                        "modified": "2025-04-24T13:07:44Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 1395856,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%203%20_%20REGRESSIONE%20SEMPLICE.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/PARTE%203%20_%20REGRESSIONE%20SEMPLICE.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "PARTE 3 _ REGRESSIONE SEMPLICE.pdf",
+                        "created": "2025-04-24T13:07:44Z",
+                        "modified": "2025-04-24T13:07:44Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 3694669,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASI.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/CASI.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "CASI.pdf",
+                        "created": "2025-04-24T13:07:45Z",
+                        "modified": "2025-04-24T13:07:45Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 63289,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    },
+                    {
+                        "url": "/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/cap14_on_line.pdf",
+                        "downloadUrl": "download?url=/sites/E86612/BS86612/Shared%20Documents/Unit%201/Materiali/cap14_on_line.pdf&MasterUrl=/sites/E86612/BS86612",
+                        "name": "cap14_on_line.pdf",
+                        "created": "2025-04-24T13:07:45Z",
+                        "modified": "2025-04-24T13:07:45Z",
+                        "modifiedBy": null,
+                        "createdBy": null,
+                        "size": 4108992,
+                        "type": 0,
+                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                    }
+                ],
+                "folders": [],
+                "created": "2025-04-24T13:07:26Z",
+                "modified": "2025-04-24T13:07:26Z"
+            }
+        ],
+        "created": "2025-02-28T22:39:12Z",
+        "modified": "2025-02-28T22:39:12Z"
+    }
+}

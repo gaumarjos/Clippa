@@ -1,0 +1,147 @@
+{
+    "success": true,
+    "status": 200,
+    "statusText": "OK",
+    "data": {
+        "name": "Unit 1",
+        "url": "/Unit 1",
+        "files": [
+            {
+                "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Program%20Presentation_EMBA%20iFlex25.pdf",
+                "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Program%20Presentation_EMBA%20iFlex25.pdf&MasterUrl=/sites/E1234112/CDP1234112",
+                "name": "Career Program Presentation_EMBA iFlex25.pdf",
+                "created": "2025-11-27T22:03:07Z",
+                "modified": "2025-11-27T22:03:07Z",
+                "modifiedBy": null,
+                "createdBy": null,
+                "size": 1270019,
+                "type": 0,
+                "urlImage": "/assets/img/placeholder_PDF.svg"
+            },
+            {
+                "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/International%20Career%20Network%20-%20EMBA%20iFlex%202025.pdf",
+                "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/International%20Career%20Network%20-%20EMBA%20iFlex%202025.pdf&MasterUrl=/sites/E1234112/CDP1234112",
+                "name": "International Career Network - EMBA iFlex 2025.pdf",
+                "created": "2025-11-27T22:03:41Z",
+                "modified": "2025-11-27T22:03:41Z",
+                "modifiedBy": null,
+                "createdBy": null,
+                "size": 1243800,
+                "type": 0,
+                "urlImage": "/assets/img/placeholder_PDF.svg"
+            }
+        ],
+        "folders": [
+            {
+                "name": "Career Workshops & Labs",
+                "url": "/Unit 1/Career Workshops & Labs",
+                "files": [],
+                "folders": [
+                    {
+                        "name": "Career Elective workshops & labs",
+                        "url": "/Unit 1/Career Workshops & Labs/Career Elective workshops & labs",
+                        "files": [],
+                        "folders": [
+                            {
+                                "name": "Training Catalogue 2026",
+                                "url": "/Unit 1/Career Workshops & Labs/Career Elective workshops & labs/Training Catalogue 2026",
+                                "files": [
+                                    {
+                                        "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Elective%20workshops%20%26%20labs/Training%20Catalogue%202026/01_Build%20Your%20Online%20Reputation_14_01.pdf",
+                                        "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Elective%20workshops%20%26%20labs/Training%20Catalogue%202026/01_Build%20Your%20Online%20Reputation_14_01.pdf&MasterUrl=/sites/E1234112/CDP1234112",
+                                        "name": "01_Build Your Online Reputation_14_01.pdf",
+                                        "created": "2026-01-16T13:56:34Z",
+                                        "modified": "2026-01-16T13:56:34Z",
+                                        "modifiedBy": null,
+                                        "createdBy": null,
+                                        "size": 1824283,
+                                        "type": 0,
+                                        "urlImage": "/assets/img/placeholder_PDF.svg"
+                                    }
+                                ],
+                                "folders": [],
+                                "created": "2026-01-16T13:56:21Z",
+                                "modified": "2026-01-16T13:56:28Z"
+                            }
+                        ],
+                        "created": "2026-01-16T13:55:57Z",
+                        "modified": "2026-01-16T13:55:57Z"
+                    },
+                    {
+                        "name": "Career Mandatory workshops_2025",
+                        "url": "/Unit 1/Career Workshops & Labs/Career Mandatory workshops_2025",
+                        "files": [
+                            {
+                                "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/1_Purpose%20Canvas.pptx",
+                                "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/1_Purpose%20Canvas.pptx&MasterUrl=/sites/E1234112/CDP1234112",
+                                "name": "1_Purpose Canvas.pptx",
+                                "created": "2025-11-27T22:05:10Z",
+                                "modified": "2025-11-27T22:05:10Z",
+                                "modifiedBy": null,
+                                "createdBy": null,
+                                "size": 1158753,
+                                "type": 0,
+                                "urlImage": "/assets/img/placeholder_PDF.svg"
+                            },
+                            {
+                                "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/3_Action%20Plan%20Worksheet.docx",
+                                "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/3_Action%20Plan%20Worksheet.docx&MasterUrl=/sites/E1234112/CDP1234112",
+                                "name": "3_Action Plan Worksheet.docx",
+                                "created": "2025-11-27T22:05:16Z",
+                                "modified": "2025-11-27T22:05:16Z",
+                                "modifiedBy": null,
+                                "createdBy": null,
+                                "size": 76085,
+                                "type": 0,
+                                "urlImage": "/assets/img/placeholder_PDF.svg"
+                            },
+                            {
+                                "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/2_Goal%20Setting%20Worksheet.docx",
+                                "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/2_Goal%20Setting%20Worksheet.docx&MasterUrl=/sites/E1234112/CDP1234112",
+                                "name": "2_Goal Setting Worksheet.docx",
+                                "created": "2025-11-27T22:05:16Z",
+                                "modified": "2025-11-27T22:05:16Z",
+                                "modifiedBy": null,
+                                "createdBy": null,
+                                "size": 76454,
+                                "type": 0,
+                                "urlImage": "/assets/img/placeholder_PDF.svg"
+                            },
+                            {
+                                "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/0_Career%20Workshop_Building%20Purposeful%20Driven%20Careers_iFLEX%202025.pdf",
+                                "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/0_Career%20Workshop_Building%20Purposeful%20Driven%20Careers_iFLEX%202025.pdf&MasterUrl=/sites/E1234112/CDP1234112",
+                                "name": "0_Career Workshop_Building Purposeful Driven Careers_iFLEX 2025.pdf",
+                                "created": "2025-11-27T22:05:23Z",
+                                "modified": "2025-11-27T22:05:53Z",
+                                "modifiedBy": null,
+                                "createdBy": null,
+                                "size": 2489035,
+                                "type": 0,
+                                "urlImage": "/assets/img/placeholder_PDF.svg"
+                            },
+                            {
+                                "url": "/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/4_Decision%20making%20in%20career%20cognitive%20process%20-%20Copia.pdf",
+                                "downloadUrl": "download?url=/sites/E1234112/CDP1234112/Shared%20Documents/Unit%201/Career%20Workshops%20%26%20Labs/Career%20Mandatory%20workshops_2025/4_Decision%20making%20in%20career%20cognitive%20process%20-%20Copia.pdf&MasterUrl=/sites/E1234112/CDP1234112",
+                                "name": "4_Decision making in career cognitive process - Copia.pdf",
+                                "created": "2025-12-11T09:09:07Z",
+                                "modified": "2025-12-11T09:09:07Z",
+                                "modifiedBy": null,
+                                "createdBy": null,
+                                "size": 3459695,
+                                "type": 0,
+                                "urlImage": "/assets/img/placeholder_PDF.svg"
+                            }
+                        ],
+                        "folders": [],
+                        "created": "2025-11-27T22:04:42Z",
+                        "modified": "2025-11-27T22:04:42Z"
+                    }
+                ],
+                "created": "2025-11-27T22:04:13Z",
+                "modified": "2025-11-27T22:04:13Z"
+            }
+        ],
+        "created": "2025-11-24T18:52:19Z",
+        "modified": "2025-11-24T18:52:19Z"
+    }
+}
