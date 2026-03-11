@@ -168,8 +168,13 @@ if __name__ == "__main__":
     OUTPUT_DIR = '/Users/ste/Downloads'
     API_BASE_URL = 'https://www.gsom.polimi.it/api/dhub/get-download-url/'
 
+    print(r"   ___|  | _)                      ")
+    print(r"  |      |  |  __ \   __ \    _` | ")
+    print(r"  |      |  |  |   |  |   |  (   | ")
+    print(r" \____| _| _|  .__/   .__/  \__,_| ")
+    print(r"            _|     _|            ")
+    print("")
     print("POLIMI GSOM FLOW Document Downloader")
-    print("=" * 50)
 
     # Load cookies from file and parse
     with open("cookies.txt", "r") as f:
