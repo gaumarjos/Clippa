@@ -5,6 +5,7 @@ from urllib.parse import quote, parse_qs, urlparse
 import time
 from http import cookies
 from requests.utils import add_dict_to_cookiejar
+from helpers import print_banner
 
 def get_download_url(api_base_url, download_url_params, filename, session):
     """
@@ -163,18 +164,14 @@ def main(json_file, output_dir='downloaded_notes', api_base_url='', cookies=None
 
 if __name__ == "__main__":
     # Configuration
-    JSON_FILE = 'source_jsons/IFLEX_PM_documents.json'
-    # OUTPUT_DIR = '/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/6 Business Statistics/Transcripts/Originals'
-    OUTPUT_DIR = '/Users/ste/Downloads'
+    JSON_FILE = 'source_jsons/18_Omnichannel_documents.json'
+    OUTPUT_DIR = '/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/18 Omnichannel Management/Transcripts'
     API_BASE_URL = 'https://www.gsom.polimi.it/api/dhub/get-download-url/'
 
-    print(r"   ___|  | _)                      ")
-    print(r"  |      |  |  __ \   __ \    _` | ")
-    print(r"  |      |  |  |   |  |   |  (   | ")
-    print(r" \____| _| _|  .__/   .__/  \__,_| ")
-    print(r"            _|     _|            ")
+    # The most beautiful banner
+    print_banner()
+    print("RIPPADOCS")
     print("")
-    print("POLIMI GSOM FLOW Document Downloader")
 
     # Load cookies from file and parse
     with open("cookies.txt", "r") as f:
