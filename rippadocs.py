@@ -164,8 +164,8 @@ def main(json_file, output_dir='downloaded_notes', api_base_url='', cookies=None
 
 if __name__ == "__main__":
     # Configuration
-    JSON_FILE = 'source_jsons/18_Omnichannel_documents.json'
-    OUTPUT_DIR = '/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/18 Omnichannel Management/Transcripts'
+    JSON_FILE = 'source_jsons/IE_documents.json'
+    OUTPUT_DIR = '/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/19 International Economics/Transcripts'
     API_BASE_URL = 'https://www.gsom.polimi.it/api/dhub/get-download-url/'
 
     # The most beautiful banner

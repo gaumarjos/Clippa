@@ -140,8 +140,8 @@ def process_docx_to_pdf(file_pattern, output_file='marged.pdf', input_folder='.'
 
 
 if __name__ == "__main__":
-    process_docx_to_pdf('Marketing e OC ENG_3.*.docx',
-                        'Marketing and OC 3.1-3.16.pdf',
-                        input_folder='/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/17 Marketing Management/Transcripts',
-                        output_folder='/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/17 Marketing Management/Transcripts',
+    process_docx_to_pdf('Dispensa 1.*_International Economics_ENG.docx',
+                        'International Economics 1.1-1.32.pdf',
+                        input_folder='/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/19 International Economics/Transcripts/Unit 1/Transcript',
+                        output_folder='/Users/ste/Library/CloudStorage/OneDrive-POLIMIGSoM/19 International Economics/Transcripts/Unit 1/Transcript',
                         )
